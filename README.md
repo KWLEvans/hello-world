@@ -1,6 +1,6 @@
 # _Hello World_
 
-#### _A pizza construction site, 01/2/2017_
+#### _A basic HTML page, 01/2/2017_
 
 #### By _**Keith Evans**_
 
